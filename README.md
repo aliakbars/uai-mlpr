@@ -2,19 +2,19 @@
 
 ## Daftar Topik
 
-1. [Pendahuluan](01-intro.pdf) [[2x2](01-intro.pdf)]
-2. [Probabilitas](02-probability.pdf) [[2x2](02-probability.pdf)]
-3. [Distribusi Diskrit](03-discrete.pdf) [[2x2](03-discrete.pdf)]
-4. [Distribusi Kontinu](04-continuous.pdf) [[2x2](04-continuous.pdf)]
-5. [Naive Bayes](05-nb.pdf) [[2x2](05-nb.pdf)]
-6. [Dimensionality Reduction](06-dim.pdf) [[2x2](06-dim.pdf)]
-7. [Model Linear](07-linear.pdf) [[2x2](07-linear.pdf)]
-8. [Evaluasi Model](08-eval.pdf) [[2x2](08-eval.pdf)]
-9. [Regresi Logistik](09-logistic.pdf) [[2x2](09-logistic.pdf)]
-10. [Neural Networks](10-nets.pdf) [[2x2](10-nets.pdf)]
-11. [k-Nearest Neighbours](11-knn.pdf) [[2x2](11-knn.pdf)]
-12. [k-Means](12-kmeans.pdf) [[2x2](12-kmeans.pdf)]
-13. [Gaussian Mixture Models](13-gmm.pdf) [[2x2](13-gmm.pdf)]
+1. [Pendahuluan](01-intro.pdf) [[2x2](01-intro-2x2.pdf)]
+2. [Probabilitas](02-probability.pdf) [[2x2](02-probability-2x2.pdf)]
+3. [Distribusi Diskrit](03-discrete.pdf) [[2x2](03-discrete-2x2.pdf)]
+4. [Distribusi Kontinu](04-continuous.pdf) [[2x2](04-continuous-2x2.pdf)]
+5. [Naive Bayes](05-nb.pdf) [[2x2](05-nb-2x2.pdf)]
+6. [Dimensionality Reduction](06-dim.pdf) [[2x2](06-dim-2x2.pdf)]
+7. [Model Linear](07-linear.pdf) [[2x2](07-linear-2x2.pdf)]
+8. [Evaluasi Model](08-eval.pdf) [[2x2](08-eval-2x2.pdf)]
+9. [Regresi Logistik](09-logistic.pdf) [[2x2](09-logistic-2x2.pdf)]
+10. [Neural Networks](10-nets.pdf) [[2x2](10-nets-2x2.pdf)]
+11. [k-Nearest Neighbours](11-knn.pdf) [[2x2](11-knn-2x2.pdf)]
+12. [k-Means](12-kmeans.pdf) [[2x2](12-kmeans-2x2.pdf)]
+13. [Gaussian Mixture Models](13-gmm.pdf) [[2x2](13-gmm-2x2.pdf)]
 14. Kuliah Tamu
 
 ## Praktikum
