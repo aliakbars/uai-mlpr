@@ -15,7 +15,7 @@
 11. [k-Nearest Neighbours](11-knn.pdf) [[2x2](11-knn-2x2.pdf)]
 12. [k-Means](12-kmeans.pdf) [[2x2](12-kmeans-2x2.pdf)]
 13. [Gaussian Mixture Models](13-gmm.pdf) [[2x2](13-gmm-2x2.pdf)]
-14. Kuliah Tamu
+14. Kuliah Tamu oleh Arie Pratama Sutiono
 
 ## Praktikum
 
@@ -33,3 +33,4 @@
 ## Ujian
 
 * [UTS](exam/exam2020.ipynb)
+* [UAS](exam/final-exam2020.ipynb)
