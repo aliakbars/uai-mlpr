@@ -3,19 +3,19 @@
 ## Daftar Topik
 
 1. [Pendahuluan](01-intro.pdf) [[2x2](01-intro-2x2.pdf)]
-2. [Probabilitas](02-probability.pdf) [[2x2](02-probability-2x2.pdf)]
-3. [Distribusi Diskrit](03-discrete.pdf) [[2x2](03-discrete-2x2.pdf)]
-4. [Distribusi Kontinu](04-continuous.pdf) [[2x2](04-continuous-2x2.pdf)]
-5. [Naive Bayes](05-nb.pdf) [[2x2](05-nb-2x2.pdf)]
-6. [Dimensionality Reduction](06-dim.pdf) [[2x2](06-dim-2x2.pdf)]
-7. [Model Linear](07-linear.pdf) [[2x2](07-linear-2x2.pdf)]
-8. [Evaluasi Model](08-eval.pdf) [[2x2](08-eval-2x2.pdf)]
-9. [Regresi Logistik](09-logistic.pdf) [[2x2](09-logistic-2x2.pdf)]
-10. [Neural Networks](10-nets.pdf) [[2x2](10-nets-2x2.pdf)]
-11. [k-Nearest Neighbours](11-knn.pdf) [[2x2](11-knn-2x2.pdf)]
-12. [k-Means](12-kmeans.pdf) [[2x2](12-kmeans-2x2.pdf)]
-13. [Gaussian Mixture Models](13-gmm.pdf) [[2x2](13-gmm-2x2.pdf)]
-14. Kuliah Tamu oleh Arie Pratama Sutiono
+2. [Probabilitas](02-probability.pdf) [[2x2](02-probability-2x2.pdf)] [[Video](https://www.youtube.com/watch?v=ADS1Fv729m4&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1)]
+3. [Distribusi Diskrit](03-discrete.pdf) [[2x2](03-discrete-2x2.pdf)] [[Video](https://www.youtube.com/watch?v=1ZcQsEtlDKA&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=2)]
+4. [Distribusi Kontinu](04-continuous.pdf) [[2x2](04-continuous-2x2.pdf)] [[Video](https://www.youtube.com/watch?v=MS3TpK5KLH4&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=3)]
+5. [Naive Bayes](05-nb.pdf) [[2x2](05-nb-2x2.pdf)] [[Video](https://www.youtube.com/watch?v=IKG_HcOdhEs&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=4)]
+6. [Dimensionality Reduction](06-dim.pdf) [[2x2](06-dim-2x2.pdf)] [[Video](https://www.youtube.com/watch?v=Qq9v4AyTdAo&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=5)]
+7. [Model Linear](07-linear.pdf) [[2x2](07-linear-2x2.pdf)] [[Video](https://www.youtube.com/watch?v=9lIlK60t2_w&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=6)]
+8. [Evaluasi Model](08-eval.pdf) [[2x2](08-eval-2x2.pdf)] [[Video bag. 1](https://www.youtube.com/watch?v=zmCOfuH3eYQ&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=7)] [[Video bag. 2](https://www.youtube.com/watch?v=ExuaBdbzr6U&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=8)]
+9. [Regresi Logistik](09-logistic.pdf) [[2x2](09-logistic-2x2.pdf)] [[Video](https://www.youtube.com/watch?v=9QBWLQcGhks&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=9)]
+10. [Neural Networks](10-nets.pdf) [[2x2](10-nets-2x2.pdf)] [[Video](https://www.youtube.com/watch?v=iLNkqHh6x6I&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=11)]
+11. [k-Nearest Neighbours](11-knn.pdf) [[2x2](11-knn-2x2.pdf)] [[Video](https://www.youtube.com/watch?v=EaT2UcoBAZs&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=11)]
+12. [k-Means](12-kmeans.pdf) [[2x2](12-kmeans-2x2.pdf)] [[Video](https://www.youtube.com/watch?v=g8YqH7H_T7o&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=12)]
+13. [Gaussian Mixture Models](13-gmm.pdf) [[2x2](13-gmm-2x2.pdf)] [[Video](https://www.youtube.com/watch?v=5zm5QBHCMX0&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=13)]
+14. Kuliah Tamu oleh Arie Pratama Sutiono [[Video](https://www.youtube.com/watch?v=ZsPlJkHgGtc&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=15&t=0s)]
 
 ## Praktikum
 
